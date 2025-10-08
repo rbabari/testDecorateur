@@ -1,7 +1,7 @@
 /**
  * interface (Component abstrait )
  * sous classes
- *  - Ingredients (Base Decoratuers) abstraitee
+ *  - Ingredients (Base Decorateurs) abstraitee
  *  - Pizza de base (Concrete Component) concrete
  */
 public interface Plat {

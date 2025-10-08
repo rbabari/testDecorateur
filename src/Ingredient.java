@@ -3,5 +3,5 @@
  * Decorateuer abstrait
  */
 public abstract class Ingredient implements Plat {
-    Plat sur; /* wrappee */
+    protected Plat sur; /* wrappee */
 }

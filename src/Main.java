@@ -10,7 +10,8 @@ public class Main {
         Plat p1 = new Ognion(new Pizza_de_Base());
 
         Plat p2 = new Ognion(new Olive(new Oeuf(new Pizza_de_Base())));
-
         Plat p3 = new Ognion(p2);
+        System.out.println(p3.getPrix());
+
         }
     }
